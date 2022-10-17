@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BigarrenActivity</string>
+    <string name="btnHurrengoa">Hurrengoa</string>
+    <string name="btnBueltatu">Bueltatu</string>
+    <string name="txtBigarrena">Bigarren activity-an zaude</string>
+    <string name="txtLehenengoa">Lehenengo activity-an zaude</string>
+    <string name="txtBidalitakoa">Bidalitakoa:</string>
+    <string name="txtJasotakoa">Jasotakoa:</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntentsAriketa</string>
+    <string name="textUrl">URL</string>
+    <string name="btnUrl">Open Website</string>
+    <string name="textLocation">Location</string>
+    <string name="btnLocation">Open Location</string>
+    <string name="textShare">Message</string>
+    <string name="btnShare">Share this text</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloConstraint</string>
+    <string name="button_toast">Mezua</string>
+    <string name="button_count">Gehitu</string>
+    <string name="toast_message">Kaixo Mezua</string>
+    <string name="button_zero">Zero</string>
+</resources>

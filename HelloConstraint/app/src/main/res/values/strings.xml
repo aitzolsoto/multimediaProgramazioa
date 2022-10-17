@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">HelloConstraint</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_zero">Zero</string>
+    <string name="button_count">Count</string>
+    <string name="text_zenbakia" translatable="false">0</string>
+    <string name="toast_message">Hau toast mezu bat da</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BigarrenActivityAriketa</string>
+    <string name="txtBidalitakoa">Bidalitakoa:</string>
+    <string name="txtJasotakoa">Jasotakoa:</string>
+    <string name="btnBidali">Bidali</string>
+    <string name="editTxtZenb">Zenbakia</string>
+</resources>

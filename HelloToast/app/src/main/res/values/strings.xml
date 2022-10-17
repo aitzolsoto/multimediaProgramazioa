@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="btn_toast">Toast</string>
+    <string name="btn_count">Count</string>
+    <string name="countTxt">0</string>
+    <string name="toast_message">Hau toast mezu bat da</string>
+</resources>
